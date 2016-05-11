@@ -1,0 +1,8 @@
+# raghav's virtualenv
+venv/
+
+# python bytecode
+*.pyc
+
+# jupyter stuff
+.ipython_checkpoints/
