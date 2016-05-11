@@ -5,4 +5,4 @@ venv/
 *.pyc
 
 # jupyter stuff
-.ipython_checkpoints/
+.ipynb_checkpoints/
